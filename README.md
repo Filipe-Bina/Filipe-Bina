@@ -1,6 +1,6 @@
 ## Olá eu Sou Filipe Santos
 
-- 🔭 Atualmente Trabalhando como Técnico de Dados e iniciando a migração de carreira para área de desenvolvimento.
+- 🔭 Atualmente Trabalhando como Técnico de Dados e iniciando a migração de carreira para área de desenvolvimento e QA.
 - 🌱 Ultimo semestre de Analise e desenvolvimento de Sistemas e em paralelo Desenvolvedor Fullstack pelo Programador BR.
 - 👯 I’m looking to collaborate on tudo que pode me trazer conhecimento
 - 🤔 I’m looking for help with: Conhecimento solido e pratico em desenvolvimento
